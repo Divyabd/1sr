@@ -12,7 +12,7 @@ public class HotelClient {
 		ServiceImplements obj = new ServiceImplements();
 		boolean quit = true;
 		do {
-			System.out.println("==============================================");
+			
 			System.out.println("1>Add Hotel\n2>Add Room\n3>Display by type\n" + "4>Exit");
 			int choice = ScannerValidate.getValidInt();
 			try {
