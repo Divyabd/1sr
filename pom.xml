@@ -10,12 +10,7 @@
     <artifactId>mysql-connector-java</artifactId>
     <version>8.0.23</version>
 </dependency>
-     <dependency>
-  <groupId>org.jenkins-ci.plugins</groupId>
-  <artifactId>skip-certificate-check</artifactId>
-  <version>1.0</version>
-  <type>pom</type>
-</dependency>
+    
   </dependencies>
   
 </project>
