@@ -29,8 +29,9 @@ pipeline{
      }
     stage('package'){
       steps{
-        echo 'Packing'
+        echo 'Packing '
         sh 'mvn -B -DskipTests clean package'
+        
       }
      }
     stage('Test'){
