@@ -22,6 +22,7 @@ public class HotelClient {
 					break;
 				case 2:
 					System.out.println("Enter for which hotel id u want to add");
+							System.out.println("Enter for which hotel id u want to add");
 					int id = ScannerValidate.getValidInt();
 					System.out.println("value for room inserted " + obj.addRooms(id));
 						
