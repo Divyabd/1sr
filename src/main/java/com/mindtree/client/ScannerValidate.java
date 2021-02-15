@@ -37,6 +37,8 @@ public class ScannerValidate {
 					break;
 				else {
 					System.out.println("please enter positive number");
+					System.out.println("please enter positive number");
+					System.out.println("please enter positive number");
 				}
 
 			} else {
