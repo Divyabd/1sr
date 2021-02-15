@@ -19,6 +19,7 @@ public class HotelClient {
 				switch (choice) {
 				case 1:
 					System.out.println("value for hotel inserted " + obj.addHotel());
+						System.out.println("Enter for which hotel id u want to add");
 					break;
 				case 2:
 					System.out.println("Enter for which hotel id u want to add");
