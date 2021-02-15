@@ -18,6 +18,13 @@ public class DataBaseConnectionFaile extends DaoException{
 		//// TODO Auto-generated constructor stub
 	}
 
+	
+	public DataBaseConnectionFaile1(String message, Throwable cause) {
+		super(message, cause);
+		//// TODO Auto-generated constructor stub
+	}
+	
+	
 	public DataBaseConnectionFaile(String message) {
 		super(message);
 		// TODO Auto-generated constructor stub
