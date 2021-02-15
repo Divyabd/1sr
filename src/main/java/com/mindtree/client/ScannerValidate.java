@@ -15,6 +15,7 @@ public class ScannerValidate {
 		
 				try {
 					if (number <= 0)
+						System.out.println("");
 						throw new Exception("please enter positive number");
 					else
 						{break;}
