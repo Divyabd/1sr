@@ -29,6 +29,7 @@ public class ServiceImplements implements Service {
 
 			e.getStackTrace();
 		}
+		System.out.println("hello word");
 		return result;
 
 	}
