@@ -31,6 +31,7 @@ public class DatabaseConnection {
 
 			} catch (Exception e) {
 				System.out.println("Error :  " + e);
+				System.out.println("Error :  " + e);
 			}
 		} else {
 			//System.out.println("connection not established");
